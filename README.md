@@ -4,7 +4,7 @@
 
 # Ebuy-Backend
 
-A  full functional Express.Js coustom backend with graphql
+A  full functional Express.Js custom backend with graphql
 
 ## Features
 
